@@ -147,9 +147,10 @@ Manage packages, bookings & settings.
 📬 Contact
 Developers:
 
+Diksha Mitra - 9991520683
 Anurag Thakur – 9140189784
-
+Deepali Kumari - 9931877173
 Kaushal Tanna – 9157798931
 
-Email: anurag.24bce11136@vitbhopal.ac.in
+Email: dikshamitra3109@gmail.com
 
