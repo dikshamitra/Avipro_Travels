@@ -1,0 +1,11 @@
+/* Basic styles */
+body{font-family:Arial,Helvetica,sans-serif;margin:0;color:#222}
+.container{max-width:1100px;margin:0 auto;padding:20px}
+.site-header{background:#0b6fa4;color:#fff;padding:10px 0}
+.site-header h1{margin:0;padding:0}
+.site-header nav a{color:#fff;margin-right:10px;text-decoration:none}
+.packages-grid{display:flex;flex-wrap:wrap;gap:16px}
+.pkg{border:1px solid #ddd;padding:12px;width:300px;border-radius:6px}
+.form-row{margin-bottom:10px}
+label{display:block;margin-bottom:4px}
+input,textarea,select{width:100%;padding:8px;border:1px solid #ccc;border-radius:4px}
